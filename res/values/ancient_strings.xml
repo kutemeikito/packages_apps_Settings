@@ -60,6 +60,9 @@
     <!-- Ancient maintainer -->
     <string name="maintainer">ビルダー `Builder</string>
     <string name="maintainer_name">ライゼン `Ryzen</string>
+    
+    <!-- Ancient Device Specs -->
+    <string name="specs_title">電話の仕様 `Phone Specifications</string>
 
     <!-- SELinux Status -->
     <string name="selinux_status">ステータス `SELinux</string>
