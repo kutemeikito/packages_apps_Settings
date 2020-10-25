@@ -58,8 +58,8 @@
     <string name="about_device_name">端末 `Tanmatsu</string>
 
     <!-- Ancient maintainer -->
-    <string name="maintainer">メンテナ `Mentena</string>
-    <string name="maintainer_name">weebs `ppl</string>
+    <string name="maintainer">ビルダー `Builder</string>
+    <string name="maintainer_name">ライゼン `Ryzen</string>
 
     <!-- SELinux Status -->
     <string name="selinux_status">ステータス `SELinux</string>
