@@ -30,4 +30,9 @@
     <color name="face_intro_outline">?android:attr/colorAccent</color>
     <!-- Ancient background color -->
     <color name="ancient_custom_bg">#FF000000</color>
+
+     <!-- R Style-->
+     <color name="black">#fffafafa</color>
+     <color name="off_black">#90fafafa</color>
+     <color name="card_view_bg">#ff353535</color>
 </resources>

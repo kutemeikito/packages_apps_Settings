@@ -436,4 +436,11 @@
     <dimen name="serachbar_custom_marginleft">0.0dip</dimen>
     <dimen name="bar_border">1.0dip</dimen>
 
+     <!--R Style-->
+     <dimen name="card_height_settings">75.0dip</dimen>
+     <dimen name="card_view_start_margin">15.0dip</dimen>
+     <dimen name="card_view_end_margin">15.0dip</dimen>
+     <dimen name="card_view_start_padding">20.0dip</dimen>
+     <dimen name="card_view_end_padding">20.0dip</dimen>
+
 </resources>
